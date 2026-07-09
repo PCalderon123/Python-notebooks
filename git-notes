@@ -1,0 +1,9 @@
+working:
+
+git add . (or file name if specific)
+git commit -m "Worked on Python course"
+git push
+
+remote: 
+git pull
+
